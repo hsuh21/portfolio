@@ -32,6 +32,9 @@ body {
 img {
     width: 100%;
 }
+#big {
+    margin-bottom: 20px;
+}
 #top {
     margin-top: 0;
     margin-bottom: 20px;

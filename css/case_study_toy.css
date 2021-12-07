@@ -1,0 +1,48 @@
+body {
+    background-color: #073b4c;
+    font-family: 'Space Mono', monospace;
+    color: #06d6a0;
+    margin: 5%;
+    margin-left: 10%;
+}
+#header {
+    width: 200px;
+    height: 100%;
+    position: fixed;
+}
+#case {
+    font-size: 40px;
+}
+#number {
+    font-size: 85px;
+}
+#number, #case{
+    line-height: 40px;
+}
+#title {
+    font-size: 30px;
+    line-height: 40px;
+}
+#container{
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 250px;
+}
+img {
+    width: 100%;
+}
+#door {
+    margin-bottom: 20px;
+}
+#top {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;;
+}
+#thumbnail:hover{
+    opacity: 70%;
+}
