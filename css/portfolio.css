@@ -10,7 +10,13 @@ header {
     margin-bottom: 5%;
     text-align: center;
 }
-
+a:link {
+  color: #06d6a0;
+  text-decoration: none;
+}
+a:hover {
+  color: #e7f1f1;
+}
 *{box-sizing:border-box}
 
 .slideshow-container {
@@ -72,7 +78,7 @@ header {
 }
 
 .active, .dot:hover {
-  background-color: #00fd94;
+  background-color: #e7f1f1;
 }
 
 .fade {
