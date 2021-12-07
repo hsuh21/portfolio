@@ -32,14 +32,22 @@ body {
 img {
     width: 100%;
 }
-#top {
-    margin-top: 0;
+#big {
     margin-bottom: 20px;
 }
 p {
     margin-top: 20px;
     margin-bottom: 20px;;
 }
+a:link {
+    color: #06d6a0;
+  }
+a:visited {
+    color: #06d6a0;
+}
+a:hover {
+    color: #e7f1f1;
+  }
 #thumbnail:hover{
     opacity: 70%;
 }
