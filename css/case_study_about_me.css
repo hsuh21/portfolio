@@ -5,6 +5,16 @@ body {
     margin: 5%;
     margin-left: 10%;
 }
+a:link {
+    color: #06d6a0;
+    text-decoration: none;
+  }
+a:visited {
+    color: #06d6a0; 
+}
+  a:hover {
+    color: #e7f1f1;
+  }
 #header {
     width: 200px;
     height: 100%;

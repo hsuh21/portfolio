@@ -10,6 +10,16 @@ body {
     height: 100%;
     position: fixed;
 }
+a:link {
+    color: #06d6a0;
+    text-decoration: none;
+  }
+a:visited {
+    color: #06d6a0; 
+}
+  a:hover {
+    color: #e7f1f1;
+  }
 #case {
     font-size: 40px;
 }

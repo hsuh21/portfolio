@@ -3,13 +3,6 @@ body {
     font-family: 'Space Mono', monospace;
     margin: 5%;
 }
-header {
-    color: #06d6a0;
-    font-family: 'Space Mono', monospace;
-    line-height: 5px;
-    margin-bottom: 5%;
-    text-align: center;
-}
 a:link {
   color: #06d6a0;
   text-decoration: none;
@@ -17,6 +10,14 @@ a:link {
 a:hover {
   color: #e7f1f1;
 }
+header {
+    color: #06d6a0;
+    font-family: 'Space Mono', monospace;
+    line-height: 5px;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
 *{box-sizing:border-box}
 
 .slideshow-container {
